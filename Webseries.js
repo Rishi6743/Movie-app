@@ -1,10 +1,5 @@
 let webseries = [
-      {
-        name: "Stranger Things",
-        image_link: "https://upload.wikimedia.org/wikipedia/en/6/6b/Stranger_Things_season_3_poster.jpg",
-        webseries_name: "Stranger Things",
-        trailer_link: "https://www.youtube.com/embed/XcnHOQ-cHa0?start=30"
-      },
+     
       {
         name: "Breaking Bad",
         image_link: "https://upload.wikimedia.org/wikipedia/en/6/61/Breaking_Bad_title_card.png",
@@ -17,12 +12,7 @@ let webseries = [
         webseries_name: "Game of Thrones",
         trailer_link: "https://www.youtube.com/embed/rlR4PJn8b8I?start=30"
       },
-      {
-        name: "The Crown",
-        image_link: "https://upload.wikimedia.org/wikipedia/en/1/1f/The_Crown_Season_3.jpg",
-        webseries_name: "The Crown",
-        trailer_link: "https://www.youtube.com/embed/W4HuNPoUgjU?start=30"
-      },
+      
       {
         name: "Black Mirror",
         image_link: "https://upload.wikimedia.org/wikipedia/en/f/f3/Black_Mirror_title_card.jpg",
@@ -33,7 +23,7 @@ let webseries = [
         name: "The Handmaid's Tale",
         image_link: "https://upload.wikimedia.org/wikipedia/en/5/5e/The_Handmaid%27s_Tale_Title_Card.jpg",
         webseries_name: "The Handmaid's Tale",
-        trailer_link: "https://www.youtube.com/embed/Da69LsJ8CMQ?start=30"
+        trailer_link: "https://www.youtube.com/embed/81PyH5TH-NQ?start=30"
       },
       {
         name: "Peaky Blinders",
@@ -45,13 +35,13 @@ let webseries = [
         name: "Narcos",
         image_link: "https://upload.wikimedia.org/wikipedia/en/6/6e/Narcos_logo.jpg",
         webseries_name: "Narcos",
-        trailer_link: "https://www.youtube.com/embed/U7elNhHwgBU?start=30"
+        trailer_link: "https://www.youtube.com/embed/xl8zdCY-abw"
       },
       {
         name: "Mindhunter",
         image_link: "https://upload.wikimedia.org/wikipedia/en/e/e4/Mindhunter.png",
         webseries_name: "Mindhunter",
-        trailer_link: "https://www.youtube.com/embed/7gZCfRD_zWE?start=30"
+        trailer_link: "https://www.youtube.com/embed/oFlKiTwhd38"
       },
       {
         name: "Chernobyl",

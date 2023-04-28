@@ -18,29 +18,9 @@ let tvseries = [
     image_link:
       "https://upload.wikimedia.org/wikipedia/en/8/8f/The_Office_US_title.jpg",
     webseries_name: "The Office",
-    trailer_link: "https://www.youtube.com/embed/USlvzf0aKjw?start=30"
+    trailer_link: "https://www.youtube.com/embed/LHOtME2DL4g?start=30"
   },
-  {
-    name: "Friends",
-    image_link:
-      "https://upload.wikimedia.org/wikipedia/en/0/0b/Friends_logo.svg",
-    webseries_name: "Friends",
-    trailer_link: "https://www.youtube.com/embed/hDNNmeeJs1Q?start=30"
-  },
-  {
-    name: "Stranger Things",
-    image_link:
-      "https://upload.wikimedia.org/wikipedia/en/6/6b/Stranger_Things_season_3_poster.jpg",
-    webseries_name: "Stranger Things",
-    trailer_link: "https://www.youtube.com/embed/XcnHOQ-cHa0?start=30"
-  },
-  {
-    name: "The Crown",
-    image_link:
-      "https://upload.wikimedia.org/wikipedia/en/thumb/5/5f/The_Crown_Season_3.jpg/250px-The_Crown_Season_3.jpg",
-    webseries_name: "The Crown",
-    trailer_link: "https://www.youtube.com/embed/UPzxSsCXw8E?start=30"
-  },
+  
   {
     name: "House of Cards",
     image_link:
@@ -55,20 +35,8 @@ let tvseries = [
     webseries_name: "The Handmaid's Tale",
     trailer_link: "https://www.youtube.com/embed/dN8AwGUaqDA?start=30"
   },
-  {
-    name: "The Sopranos",
-    image_link:
-      "https://upload.wikimedia.org/wikipedia/en/c/cd/Sopranos-s6-part2.jpg",
-    webseries_name: "The Sopranos",
-    trailer_link: "https://www.youtube.com/embed/4SvnFDBBah0?start=30"
-  },
-  {
-    name: "Stranger Things",
-    image_link:
-      "https://upload.wikimedia.org/wikipedia/en/6/6b/Stranger_Things_season_3_poster.jpg",
-    webseries_name: "Stranger Things",
-    trailer_link: "https://www.youtube.com/embed/XcnHOQ-cHa0?start=30"
-  },
+  
+  
   {
     name: "Black Mirror",
     image_link:
@@ -83,34 +51,9 @@ let tvseries = [
     webseries_name: "Breaking Bad",
     trailer_link: "https://www.youtube.com/embed/HhesaQXLuRY?start=30"
   },
-  {
-    name: "The Wire",
-    image_link:
-      "https://upload.wikimedia.org/wikipedia/en/3/32/TheWire_Title.png",
-    webseries_name: "The Wire",
-    trailer_link: "https://www.youtube.com/embed/qkU0xGcEBJE?start=30"
-  },
-  {
-    name: "Mad Men",
-    image_link:
-      "https://upload.wikimedia.org/wikipedia/en/thumb/b/b4/Mad_Men_title_card.jpg/250px-Mad_Men_title_card.jpg",
-    webseries_name: "Mad Men",
-    trailer_link: "https://www.youtube.com/embed/cu3tutwKtQA?start=30"
-  },
-  {
-    name: "The Office",
-    image_link:
-      "https://upload.wikimedia.org/wikipedia/en/8/8f/The_Office_US_title.jpg",
-    webseries_name: "The Office",
-    trailer_link: "https://www.youtube.com/embed/USlvzf0aKjw?start=30"
-  },
-  {
-    name: "Friends",
-    image_link:
-      "https://upload.wikimedia.org/wikipedia/en/0/0b/Friends_logo.svg",
-    webseries_name: "Friends",
-    trailer_link: "https://www.youtube.com/embed/hDNNmeeJs1Q?start=30"
-  },
+  
+  
+  
   {
     name: "The Marvelous Mrs. Maisel",
     image_link:
@@ -118,13 +61,7 @@ let tvseries = [
     webseries_name: "The Marvelous Mrs. Maisel",
     trailer_link: "https://www.youtube.com/embed/fOmwkTrW4OQ?start=30"
   },
-  {
-    name: "Stranger Things",
-    image_link:
-      "https://upload.wikimedia.org/wikipedia/en/6/6b/Stranger_Things_season_3_poster.jpg",
-    webseries_name: "Stranger Things",
-    trailer_link: "https://www.youtube.com/embed/XcnHOQ-cHa0?start=30"
-  },
+  
   {
     name: "Peaky Blinders",
     image_link:
